@@ -12,11 +12,11 @@ from requests.auth import HTTPBasicAuth
 
 login = ""  # DAPNET Benutzername
 passwd = ""  # DAPNET Password
-url = 'http://www.hampager.de:8080/calls'  # versenden uebers Internet
+url = 'http://www.hampager.de:8080/calls'  # versenden uebers Internet http://www.hampager.de:8080/calls
 
 text = "text"  # Nachrichtentext bis 80 Zeichen  eingeben
 callsign = "dl7fl"  # Emfaenger Rufzeichen
-txgroup = "DL-HE"  # Sendergruppe zB. DL-all für alle Sender in Deutschland
+txgroup = "DL-HE"  # Sendergruppe zB. DL-all fuer alle Sender in Deutschland
 
 ###############################################################################
 # Funktionen definieren
