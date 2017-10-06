@@ -16,8 +16,8 @@ login = "dl7fl"  # DAPNET Benutzername
 passwd = ""  # DAPNET Password
 url = 'http://www.hampager.de:8080/calls'  # versenden uebers Internet
 
-text = "text Winnau"  # Nachrichtentext bis 80 Zeichen  eingeben
-rufzeichen = ["dl7fl", "DL7FL", "DL7FL"]  #  # eins oder mehrere Emfaenger Rufzeichen
+text = "test vom Script aus Winnau."  # Nachrichtentext bis 80 Zeichen  eingeben
+rufzeichen = ["DL7FL"]  #  # eins oder mehrere Emfaenger Rufzeichen
 txgroup = "dl-he"  # Sendergruppe zB. DL-all für alle Sender in Deutschland
 
 
