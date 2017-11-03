@@ -12,7 +12,7 @@ from requests.auth import HTTPBasicAuth
 # modul
 # Konstante
 
-login = "dl7fl"  # DAPNET Benutzername
+login = ""  # DAPNET Benutzername
 passwd = ""  # DAPNET Password
 url = 'http://www.hampager.de:8080/calls'  # versenden uebers Internet
 
